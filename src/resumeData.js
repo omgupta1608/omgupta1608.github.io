@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://omgupta1608.github.io/",
   name: "Om Gupta",
-  role: "I play my ukelele when I can't solve the bug",
+  role: "I play my ukelele when I can't solve the bug 🥲",
   linkedinId: "Your LinkedIn Id",
   skypeid: "Your skypeid",
   roleDescription:
@@ -20,20 +20,26 @@ let resumeData = {
       title: "Github"
     },
     {
-      name: "skype",
+      name: "mail",
       url: "mailto:omgupta1608@gmail.com",
       className: "fa fa-envelope",
       title: "Mail"
     },
     {
-      name: "resume",
-      url: "https://docs.google.com/document/d/1FL5hFSUvSuc-mM6eiUe0Mqp7HkN1AmB0/edit?usp=sharing&ouid=101914746150620933579&rtpof=true&sd=true",
-      className: "fa fa-file",
-      title: "Resume"
-    },
+      name: "insta",
+      url: "https://instagram.com/omgupta1608",
+      className: "fa fa-instagram",
+      title: "Instagram"
+    }
+    // {
+    //   name: "resume",
+    //   url: "https://docs.google.com/document/d/1FL5hFSUvSuc-mM6eiUe0Mqp7HkN1AmB0/edit?usp=sharing&ouid=101914746150620933579&rtpof=true&sd=true",
+    //   className: "fa fa-file",
+    //   title: "Resume"
+    // },
   ],
   aboutme:
-    "I am a software engineer based in New Delhi, focusing mainly on backend engineering. With almost 2 years of professional experience, I have worked with various technologies like NodeJs, Golang. I love working on things like GraphQL, Docker and Postgres Databases. I recently won a national level Hackathon called Smart India Hackathon where I led a team of 5 members and managed the overall development and presentation of our project.",
+    "I am a software engineer, with 2 years of professional experience. I mainly work on the backend, designing APIs and structuring databases. I like to read and write about physics whenever I get the time.",
   address: "New Delhi, India",
   website: "https://omgupta1608.github.io",
   education: [
