@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://omgupta1608.github.io/",
   name: "Om Gupta",
-  role: "I play my ukelele when I can't solve the bug 🥲",
+  role: "I play my ukelele when I am not busy puzzling over a stupid bug",
   linkedinId: "Your LinkedIn Id",
   skypeid: "Your skypeid",
   roleDescription:
