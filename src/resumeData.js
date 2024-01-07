@@ -39,7 +39,7 @@ let resumeData = {
     // },
   ],
   aboutme:
-    "I am a software engineer, with 2 years of professional experience. I mainly work on the backend, designing APIs and structuring databases. I like to read and write about physics whenever I get the time.",
+    "I am a software engineer with 2+ years of professional experience, specializing in backend development, and the cloud. My interests include physics, math and machine learning, and I love reading and writing about these subjects. You can find more about my insights and thoughts on various topics in my blog, linked above.",
   address: "New Delhi, India",
   website: "https://omgupta1608.github.io",
   education: [
@@ -60,10 +60,17 @@ let resumeData = {
   ],
   work: [
     {
-      CompanyName: "BridgeUp Tech Private Limited",
+      CompanyName: "Aftershoot",
+      specialization: "Cloud Engineer",
+      MonthOfLeaving: "Sept 2023",
+      YearOfLeaving: " - Present",
+      Achievements: "IIT Delhi, India",
+    },
+    {
+      CompanyName: "BridgeUp Tech",
       specialization: "Software Engineer",
       MonthOfLeaving: "Jun 2022",
-      YearOfLeaving: " - Present",
+      YearOfLeaving: " - August 2023",
       Achievements: "Mumbai, India",
     },
     {
