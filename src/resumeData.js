@@ -45,7 +45,7 @@ let resumeData = {
   education: [
     {
       UniversityName: "Maharaja Surajmal Insitute, New Delhi",
-      specialization: "Bachelors's in Computer Application",
+      specialization: "Bachelors in Computer Application",
       MonthOfPassing: "July",
       YearOfPassing: "2022",
       Achievements: "Overall CGPA - 9.76",
